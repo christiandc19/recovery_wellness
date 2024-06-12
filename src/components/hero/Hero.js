@@ -9,7 +9,6 @@ import Hero3 from '../../assets/Hero3.webp'
 import Hero4 from '../../assets/Hero4.webp'
 
 import { MdPhoneCallback } from "react-icons/md";
-// import Gauge from './Gauge'
 
 const Hero = () => {
   return (
@@ -36,13 +35,6 @@ const Hero = () => {
               <h2>Consulting Solutions Empowering The Substance Abuse <br/>and Mental Health Treatment Industry</h2>
             </Zoom>
   </Zoom>
-     {/* <div className='gauges container'>
-     <Zoom duration={3000} delay={1000}>
-            <Gauge Gauge="60%" Header="SOBRIETY SUCCESS" Name="60% of our clients are abstinent from drugs and alcohol in 6 months.
-"ClassName="sober"/>
-      </Zoom>
-    </div> */}
-
 
     <div className='hero-btn'>
       <Zoom duration={3000} delay={2000}>

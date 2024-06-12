@@ -1,18 +1,18 @@
-.servicesSection {
+.servicesSection-bg {
     width: 100%;
     height: 100%;
     position: relative;
     padding: 2rem 0;
   }
   
-  .servicesSection:before {
+  .servicesSection-bg:before {
     content: '';
     position: absolute;
     background: url('../../assets/section-bg.jpg') no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
-    opacity: 0.07;
+    opacity: 0.08;
   }
 
 .servicesSectionCaption {
@@ -24,7 +24,7 @@
 
 .servicesSectionCaption h1 {
     font-size: 1.5rem;
-    text-align: center;
+    text-align: left;
     color: #edaa09;
     font-family: "Gabriola";
     line-height: 1.5rem;
@@ -43,6 +43,7 @@
 
 .flexLeftItem p {
     text-align: left;
+    font-size: 14px;
 }
 
 .flexImage {
@@ -53,10 +54,32 @@
 
 .flexImage img {
     width: 100%;
-    border-radius: .5rem;
 }
 
+.serviceSectionFooter {
+    padding: 1rem;
+}
 
+.serviceSectionFooter p {
+    padding: .5rem 0;
+    text-align: justify;
+}
+
+.servicesSectionHeader {
+    padding: 1rem 0;
+}
+.servicesSectionHeader h1 {
+    font-size: 2rem;
+    text-align: center;
+    color: #edaa09;
+    font-family: "Gabriola";
+    line-height: 1.5rem;
+}
+
+.servicesSectionHeader p {
+    padding: .5rem 0;
+    text-align: justify;
+}
 
 @media screen and (max-width: 940px) {
     .servicesSectionContent {
