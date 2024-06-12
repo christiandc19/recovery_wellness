@@ -59,8 +59,8 @@ const Footer = () => {
 
               <div>
                 <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
-                  <Link to="/insurance">
-                    <p>Insurance</p>
+                  <Link to="/services">
+                    <p>Services</p>
                   </Link>
                 </LinkRoll>
               </div>
@@ -80,75 +80,24 @@ const Footer = () => {
 
 
 
-            <div className="col">
-              <h3>Company</h3>
-
-{/* DETOX */}
-              <div className="hide">
-                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
-                  <Link to="/mission">
-                    <p>Our Mission</p>
-                  </Link>
-                </LinkRoll>
-              </div>
-
-{/* RESIDENTIAL */}
-
-              <div>
-                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
-                  <Link to="/team">
-                    <p>Our Team</p>
-                  </Link>
-                </LinkRoll>
-              </div>
-
-{/* PHP */}
-
-            <div>
-                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
-                  <Link to="/testimonials">
-                    <p>Testimonials</p>
-                  </Link>
-                </LinkRoll>
-              </div>
-
-            </div>
-
-
-
-
-
-
 
             <div className="col">
-              <h3>Treatment Programs</h3>
+              <h3>Services</h3>
 
 {/* PHP */}
               <div>
-                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
-                  <Link to="/mental-health">
-                    <p>Mental Health</p>
-                  </Link>
-                </LinkRoll>
+                    <p>Licensing & Certification</p>
               </div>
 {/* IOP */}
 
               <div>
-                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
-                  <Link to="/substance-abuse">
-                    <p>Substance Abuse Programs</p>
-                  </Link>
-                </LinkRoll>
+                    <p>Operating/Supervising Treatment programs</p>
               </div>
 
 {/* OP */}
 
               <div>
-                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
-                  <Link to="/jobs">
-                    <p>Jobs Program</p>
-                  </Link>
-                </LinkRoll>
+                    <p>Marketing, Contracting and Investing</p>
               </div>
 
             </div>
@@ -166,7 +115,7 @@ const Footer = () => {
               </div>
 
               <div>
-                  <p><span><MdAlternateEmail  /><a href = "mailto: abc@example.com">info@santamonicarehab.biz</a></span></p>
+                  <p><span><MdAlternateEmail  /><a href = "mailto: abc@example.com">info@RecoveryWellness</a></span></p>
               </div>
 
               <div>
@@ -184,7 +133,7 @@ const Footer = () => {
 
           <p className="copyright">
             <p>
-              &copy; 2023 Santa Monica Rehab <br/> All rights
+              &copy; 2024 Recovery & Wellness Solutions All rights
               reserved
             </p>
           </p>
