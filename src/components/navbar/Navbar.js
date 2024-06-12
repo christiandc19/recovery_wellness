@@ -90,7 +90,7 @@ const Navbar = () => {
                         </ul>
                     </li>
 
-
+                    <li className="hover-underline-animation"><Link to='/mission'>About</Link> </li>
                     <li className="hover-underline-animation"><Link to='/mission'>Our Mission</Link> </li>
                     <li className="hover-underline-animation"><Link to='/team'>Our Team</Link> </li>
                     <li className="hover-underline-animation"><Link to='/contact'>Contact</Link></li>

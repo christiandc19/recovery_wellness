@@ -12,7 +12,7 @@ const Mission = () => {
 
                 <div className="mission-content">
                     <Fade top>
-                    <h1>MISSION</h1>
+                    <h1>Our Mission</h1>
                     </Fade>
                 </div>
             </div>

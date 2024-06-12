@@ -11,7 +11,7 @@ const Team = () => {
         <div className='team submenu'>
                 <div className="team-content">
                     <Fade left>
-                    <h1>OUR TEAM</h1>
+                    <h1>Meet Our Team</h1>
                     </Fade>
                 </div>
             </div>
