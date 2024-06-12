@@ -1,23 +1,24 @@
 import React from 'react'
-import './Accreditation_Section.css'
+import './Licensing_Certification_Section.css'
+import Certification from '../../assets/certification.webp'
 
-const Accreditation_Section = () => {
+const Licencing_Certification_Section = () => {
   return (
 <>
-      <div className='accreditationSection container'>
+      <div className='licensingCertificationSection container'>
 
-            <div className='accreditationSection-header'>
-                <h1>Recovery & Wellness Solutions: Accreditation Services</h1>
+            <div className='licensingCertificationSection-header'>
+                <h1>Recovery & Wellness Solutions: Licensing and Certification Services</h1>
                 <p>Recovery & Wellness Solutions is committed to supporting organizations and individuals in achieving the highest standards in behavioral health and wellness services. Our Licensing and Certification services are designed to ensure compliance with regulatory requirements and to promote best practices in the industry. We offer comprehensive support throughout the licensing and certification process, providing expertise and resources to help you succeed.</p>
             </div>
 
 
 
-  <div className='accreditationSection-content'>
+  <div className='licensingCertificationSection-content'>
     
-    <div className='accreditationSection-flex'>
+    <div className='licensingCertificationSection-flex'>
 
-      <div className='accreditationSection-left'>
+      <div className='licensingCertificationSection-left'>
         <h1>Licensing Support</h1>
         <ul>
           <li><b>Application Assistance:</b> We guide you through the application process, ensuring that all necessary documentation and forms are accurately completed and submitted on time.</li>
@@ -27,8 +28,8 @@ const Accreditation_Section = () => {
         </ul>
       </div>
 
-      <div className='accreditationSection-right'>
-        <img src='https://sunset-rehab.s3.us-west-1.amazonaws.com/cocaine-addiction.jpg' alt="activities" />
+      <div className='licensingCertificationSection-right'>
+        <img src={Certification} alt="Certification" loading="lazy"/>
       </div>
 
     </div>
@@ -41,4 +42,4 @@ const Accreditation_Section = () => {
   )
 }
 
-export default Accreditation_Section
+export default Licencing_Certification_Section

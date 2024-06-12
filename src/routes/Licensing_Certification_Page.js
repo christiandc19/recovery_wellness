@@ -2,8 +2,8 @@ import React from 'react'
 
 import Navbar from '../components/navbar/Navbar'
 import Footer from '../components/footer/Footer'
-import LicensingCertification from '../components/Licencing_Certification/Licencing_Certification'
-import LicensingCertificationSection from '../components/Licencing_Certification/Licencing_Certification_Section'
+import LicensingCertification from '../components/Licensing_Certification/Licensing_Certification'
+import LicensingCertificationSection from '../components/Licensing_Certification/Licensing_Certification_Section'
 import ContactForm from '../components/contact/ContactForm'
 
 

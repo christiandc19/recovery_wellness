@@ -56,7 +56,7 @@ const Navbar = () => {
                     <ul className={boxClassSubMenu.join(' ')} id='submenu-item'> 
                             <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/licensing-certification`}> Licensing and Certification</NavLink> </li>
                             <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/accreditation`}> Accreditation</NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/licensing-certification`}> Acquiring Business Licenses</NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/business-licenses`}> Acquiring Business Licenses</NavLink> </li>
                         </ul>
                     </li>
 
