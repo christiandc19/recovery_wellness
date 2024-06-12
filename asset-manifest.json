@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/recovery_wellness/static/css/main.025bfc6c.css",
-    "main.js": "/recovery_wellness/static/js/main.367d2f95.js",
+    "main.js": "/recovery_wellness/static/js/main.d429462c.js",
     "static/media/gabriola.ttf": "/recovery_wellness/static/media/gabriola.88ea98efc0d476a13db1.ttf",
     "static/media/Hero3.webp": "/recovery_wellness/static/media/Hero3.48d837550492fde10525.webp",
     "static/media/Hero4.webp": "/recovery_wellness/static/media/Hero4.1699ef3ce053bd1d6edb.webp",
@@ -39,10 +39,10 @@
     "static/media/nav-logo.png": "/recovery_wellness/static/media/nav-logo.b0cd8228fdd31baffa30.png",
     "index.html": "/recovery_wellness/index.html",
     "main.025bfc6c.css.map": "/recovery_wellness/static/css/main.025bfc6c.css.map",
-    "main.367d2f95.js.map": "/recovery_wellness/static/js/main.367d2f95.js.map"
+    "main.d429462c.js.map": "/recovery_wellness/static/js/main.d429462c.js.map"
   },
   "entrypoints": [
     "static/css/main.025bfc6c.css",
-    "static/js/main.367d2f95.js"
+    "static/js/main.d429462c.js"
   ]
 }
