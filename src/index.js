@@ -5,6 +5,7 @@ import App from './App';
 
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
 import MissionPage from './routes/MissionPage'
+import ServicesPage from './routes/ServicesPage'
 import ContactPage from './routes/ContactPage'
 import LICENSING_CERTIFICATION from './routes/Licensing_Certification_Page';
 import BUSINESS_LICENSES from './routes/Business_Licenses_Page';
@@ -22,6 +23,7 @@ ReactDOM.render(
       <Route exact path='/accreditation' element={<AccreditationPage />} />
       <Route exact path='/hiring-Staff' element={<HiringStaff />} />
       <Route exact path='/mission' element={<MissionPage />} />
+      <Route exact path='/services' element={<ServicesPage />} />
       <Route exact path='/team' element={<Team />} />
       <Route exact path='/contact' element={<ContactPage />} />
     </Routes>

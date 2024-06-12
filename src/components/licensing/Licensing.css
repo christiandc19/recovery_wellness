@@ -168,7 +168,7 @@
     font-size: 18px;
     font-weight: 700;
     letter-spacing: 0.05em;
-    color: #5a5c82;
+    color: #804e05d3;
    }
    
    .licensing-cta svg {
@@ -178,7 +178,7 @@
     fill: none;
     stroke-linecap: round;
     stroke-linejoin: round;
-    stroke: #5a5c82;
+    stroke: #804e05d3;
     stroke-width: 2;
     transform: translateX(-5px);
     transition: all 0.3s ease;

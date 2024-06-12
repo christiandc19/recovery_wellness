@@ -45,13 +45,13 @@ const Navbar = () => {
                 
                  <div className="navbar-logo">
                     <Link to='/'>
-                    <img src={logo} alt="Santa Monica Rehab Logo" loading="lazy"/>
+                    <img src={logo} alt="Recovery and Wellness Logo" loading="lazy"/>
                     </Link>
                 </div>
 
                 <ul className={nav ? 'nav-menu active' : 'nav-menu'}>
                     <li className="hover-underline-animation"><Link to='/'>Home</Link></li>
-                    
+                    <li className="hover-underline-animation"><Link to='/services'>Services</Link> </li>
                     <li onClick={toggleSubmenu} className="menu-item sub__menus__arrows"> <Link to={`#`}> Licensing <BsFillCaretDownFill /> </Link>
                     <ul className={boxClassSubMenu.join(' ')} id='submenu-item'> 
                             <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/licensing-certification`}> Licensing and Certification</NavLink> </li>
@@ -90,7 +90,6 @@ const Navbar = () => {
                         </ul>
                     </li>
 
-                    <li className="hover-underline-animation"><Link to='/mission'>About</Link> </li>
                     <li className="hover-underline-animation"><Link to='/mission'>Our Mission</Link> </li>
                     <li className="hover-underline-animation"><Link to='/team'>Our Team</Link> </li>
                     <li className="hover-underline-animation"><Link to='/contact'>Contact</Link></li>

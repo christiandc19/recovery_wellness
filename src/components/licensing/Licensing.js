@@ -1,7 +1,7 @@
 import React from "react";
 import Fade from "react-reveal/Fade";
-// import { Link as LinkRoll } from "react-scroll";
-// import { Link } from "react-router-dom";
+import { Link as LinkRoll } from "react-scroll";
+import { Link } from "react-router-dom";
 
 import "./Licensing.css";
 
@@ -64,7 +64,7 @@ const TherapyMH = () => {
             
           </div>
 
-          {/* <div className="licensing-btn">
+          <div className="licensing-btn">
             <LinkRoll
               activeClass="active"
               to="top"
@@ -72,10 +72,10 @@ const TherapyMH = () => {
               smooth={true}
               duration={500}
             >
-              <Link to="/mental-health">
+              <Link to="/services">
                 <div className="licensing-btn">
                   <button class="licensing-cta">
-                    <span>VIEW ALL</span>
+                    <span>Learn More</span>
                     <svg viewBox="0 0 13 10" height="10px" width="15px">
                       <path d="M1,5 L11,5"></path>
                       <polyline points="8 1 12 5 8 9"></polyline>
@@ -84,7 +84,7 @@ const TherapyMH = () => {
                 </div>
               </Link>
             </LinkRoll>
-          </div> */}
+          </div>
 
         </div>
       </div>

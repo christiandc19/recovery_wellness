@@ -8,7 +8,7 @@ const Mission = () => {
 
 <>
 
-        <div className='mission main-menu'>
+        <div className='mission'>
 
                 <div className="mission-content">
                     <Fade top>

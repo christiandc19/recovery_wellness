@@ -84,12 +84,14 @@
   padding: .8rem 2rem;
   font-size: 1rem;
   border-radius: 10px;
+  background-color: #804e05d3;
+  border: none;
 }
 
 .marketing-btn button:hover {
   padding: .8rem 2rem;
   font-size: 1rem;
   border-radius: 10px;
-  background-color: rgba(49, 29, 85, 0.514);
+  background-color: #5e3903d3;
   border: none;
 }

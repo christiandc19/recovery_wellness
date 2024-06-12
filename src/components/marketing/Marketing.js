@@ -1,7 +1,7 @@
 import React from "react";
 import "./Marketing.css";
-// import { Link as LinkRoll } from "react-scroll";
-// import { Link } from "react-router-dom";
+import { Link as LinkRoll } from "react-scroll";
+import { Link } from "react-router-dom";
 import Fade from 'react-reveal/Fade';
 import marketResearch from '../../assets/market_research.webp'
 import insuranceContracting from '../../assets/insurance_contracting.webp'
@@ -75,7 +75,7 @@ const Marketing = () => {
             </div>
             </Fade>
           </div>
-{/* 
+
           <LinkRoll
             activeClass="active"
             to="top"
@@ -83,12 +83,12 @@ const Marketing = () => {
             smooth={true}
             duration={500}
           >
-            <Link to="/substance-abuse">
-              <div className="therapySA-btn">
-                <button>VIEW ALL</button>
+            <Link to="/services">
+              <div className="marketing-btn">
+                <button>Learn More</button>
               </div>
             </Link>
-          </LinkRoll> */}
+          </LinkRoll>
         </div>
       </div>
     </>
