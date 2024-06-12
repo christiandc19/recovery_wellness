@@ -1,6 +1,6 @@
 {
   "homepage": "https://christiandc19.github.io/recovery_wellness/",
-  "name": "Recovery Wellness",
+  "name": "recovery_wellness",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
