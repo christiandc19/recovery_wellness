@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/recovery_wellness/static/css/main.7d7d5607.css",
-    "main.js": "/recovery_wellness/static/js/main.fa7fd74c.js",
+    "main.css": "/recovery_wellness/static/css/main.4dcb5b36.css",
+    "main.js": "/recovery_wellness/static/js/main.3233781b.js",
     "static/media/gabriola.ttf": "/recovery_wellness/static/media/gabriola.88ea98efc0d476a13db1.ttf",
     "static/media/Hero3.webp": "/recovery_wellness/static/media/Hero3.48d837550492fde10525.webp",
+    "static/media/accreditation_section2.webp": "/recovery_wellness/static/media/accreditation_section2.b4fab5ff1e5c16fb83d1.webp",
     "static/media/Hero4.webp": "/recovery_wellness/static/media/Hero4.1699ef3ce053bd1d6edb.webp",
     "static/media/services_hero_bg.webp": "/recovery_wellness/static/media/services_hero_bg.bed1b7b351c2c55dae09.webp",
     "static/media/services_section.webp": "/recovery_wellness/static/media/services_section.7c8a5f84f84101d06815.webp",
@@ -17,10 +18,12 @@
     "static/media/menu-bg-contact.webp": "/recovery_wellness/static/media/menu-bg-contact.b89fda2d18aef258e632.webp",
     "static/media/menu-bg-mission.webp": "/recovery_wellness/static/media/menu-bg-mission.8803f3b69280532cf5bf.webp",
     "static/media/section-bg.jpg": "/recovery_wellness/static/media/section-bg.37b1c5c020be9cc067a6.jpg",
+    "static/media/training_staff.webp": "/recovery_wellness/static/media/training_staff.f0b34a04506c3046f8ef.webp",
     "static/media/real_estate.webp": "/recovery_wellness/static/media/real_estate.bb265f93370a661c8cb8.webp",
     "static/media/training_staff_bg.webp": "/recovery_wellness/static/media/training_staff_bg.fd567e27cf788a05e9a2.webp",
     "static/media/certification.webp": "/recovery_wellness/static/media/certification.3490532736b99620aa16.webp",
-    "static/media/jobs.webp": "/recovery_wellness/static/media/jobs.720ce979e22f199f111f.webp",
+    "static/media/accreditation_section1.webp": "/recovery_wellness/static/media/accreditation_section1.2418263ad0c9bfcb851e.webp",
+    "static/media/training_staff2.webp": "/recovery_wellness/static/media/training_staff2.6c48ab9cb2617c02d2d4.webp",
     "static/media/recovery_wellness_professional_man.webp": "/recovery_wellness/static/media/recovery_wellness_professional_man.77c99fa308342e44aae7.webp",
     "static/media/accreditation.webp": "/recovery_wellness/static/media/accreditation.175a86ef2c1a618bab2d.webp",
     "static/media/team_2.webp": "/recovery_wellness/static/media/team_2.064ba837041123e0f3c7.webp",
@@ -38,11 +41,11 @@
     "static/media/team_4.webp": "/recovery_wellness/static/media/team_4.4ae39339e61af94432bb.webp",
     "static/media/nav-logo.png": "/recovery_wellness/static/media/nav-logo.b0cd8228fdd31baffa30.png",
     "index.html": "/recovery_wellness/index.html",
-    "main.7d7d5607.css.map": "/recovery_wellness/static/css/main.7d7d5607.css.map",
-    "main.fa7fd74c.js.map": "/recovery_wellness/static/js/main.fa7fd74c.js.map"
+    "main.4dcb5b36.css.map": "/recovery_wellness/static/css/main.4dcb5b36.css.map",
+    "main.3233781b.js.map": "/recovery_wellness/static/js/main.3233781b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d7d5607.css",
-    "static/js/main.fa7fd74c.js"
+    "static/css/main.4dcb5b36.css",
+    "static/js/main.3233781b.js"
   ]
 }
