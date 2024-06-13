@@ -9,23 +9,32 @@ const Business_Licenses_Section = () => {
 
             <div className='businessLicensesSection-header'>
                 <h1>Recovery & Wellness Solutions: Acquiring Business Licenses Services</h1>
-                <p>Recovery & Wellness Solutions is committed to supporting organizations and individuals in achieving the highest standards in behavioral health and wellness services. Our Licensing and Certification services are designed to ensure compliance with regulatory requirements and to promote best practices in the industry. We offer comprehensive support throughout the licensing and certification process, providing expertise and resources to help you succeed.</p>
+                <p>Starting a new business or expanding an existing one requires navigating a complex web of regulatory requirements, including acquiring the necessary business licenses. At Recovery & Wellness Solutions, we provide comprehensive services to help organizations and businesses obtain the licenses they need to operate legally and efficiently. Our expertise ensures a smooth and compliant licensing process, allowing you to focus on your core business activities.</p>
             </div>
 
 
 
   <div className='businessLicensesSection-content'>
-    
     <div className='businessLicensesSection-flex'>
-
       <div className='businessLicensesSection-left'>
-        <h1>Licensing Support</h1>
+        <h1>Business License Consultation</h1>
         <ul>
-          <li><b>Application Assistance:</b> We guide you through the application process, ensuring that all necessary documentation and forms are accurately completed and submitted on time.</li>
-          <li><b>Regulatory Compliance:</b> Our team helps you understand and comply with state and federal regulations, including preparing for inspections and audits.</li>
-          <li><b>Policy and Procedure Development:</b> We assist in developing and implementing policies and procedures that meet regulatory standards and enhance operational efficiency.</li>
-          <li><b>Staff Training:</b> We offer training programs to ensure your staff is knowledgeable about licensing requirements and best practices.</li>
+          <li>Initial Assessment: We conduct a thorough assessment of your business model and operations to determine the specific licenses required.</li>
+          <li>Customized Licensing Plan: Based on our assessment, we develop a tailored plan outlining the steps and timelines for acquiring the necessary licenses.</li>
         </ul>
+
+        <h1>License Application Preparation</h1>
+        <ul>
+          <li>Document Preparation: We assist in gathering and preparing all required documents, ensuring they meet regulatory standards.</li>
+          <li>Form Completion: Our experts accurately complete all application forms, reducing the risk of errors that could delay approval.</li>
+        </ul>
+
+        <h1>Regulatory Compliance</h1>
+        <ul>
+          <li>Regulatory Research: We stay up-to-date with the latest regulations and requirements to ensure your business remains compliant.</li>
+          <li>Compliance Checklists: We provide detailed checklists to help you maintain ongoing compliance with local, state, and federal regulations.</li>
+        </ul>
+
       </div>
 
       <div className='businessLicensesSection-right'>

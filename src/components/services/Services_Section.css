@@ -54,6 +54,7 @@
 
 .flexImage img {
     width: 100%;
+    border-radius: .5rem;
 }
 
 .serviceSectionFooter {
@@ -79,6 +80,8 @@
 .servicesSectionHeader p {
     padding: .5rem 0;
     text-align: justify;
+    font-size: 14px;
+
 }
 
 @media screen and (max-width: 940px) {

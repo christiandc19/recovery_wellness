@@ -10,7 +10,7 @@ import ContactPage from './routes/ContactPage'
 import LICENSING_CERTIFICATION from './routes/Licensing_Certification_Page';
 import BUSINESS_LICENSES from './routes/Business_Licenses_Page';
 import AccreditationPage from './routes/AccreditationPage';
-import HiringStaff from './routes/TrainingStaff';
+import TrainingStaff from './routes/TrainingStaff';
 import Team from './routes/Team';
 
 
@@ -21,7 +21,7 @@ ReactDOM.render(
       <Route exact path='/licensing-certification' element={<LICENSING_CERTIFICATION />} />
       <Route exact path='/business-licenses' element={<BUSINESS_LICENSES />} />
       <Route exact path='/accreditation' element={<AccreditationPage />} />
-      <Route exact path='/hiring-Staff' element={<HiringStaff />} />
+      <Route exact path='/training-staff' element={<TrainingStaff />} />
       <Route exact path='/mission' element={<MissionPage />} />
       <Route exact path='/services' element={<ServicesPage />} />
       <Route exact path='/team' element={<Team />} />

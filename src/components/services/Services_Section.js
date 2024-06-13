@@ -57,7 +57,7 @@ const ServicesSection = () => {
                                     <h1>Implement Marketing Strategies</h1>
                                     <p>Effective marketing strategies are vital for attracting patients and establishing a strong presence in the community. This includes digital marketing, community outreach, partnerships with local organizations, and branding efforts that communicate the facility's value and services.</p>
 
-                                    <h1>Hiring Staff</h1>
+                                    <Link to='/hiring-Staff'><h1>Hiring Staff</h1></Link>
                                     <p>Recruiting qualified and dedicated staff is crucial for delivering high-quality care. This involves not only identifying the right candidates but also ensuring they are aligned with the facility's mission and values.</p>
 
                                 </div>
@@ -69,8 +69,7 @@ const ServicesSection = () => {
 
 <div className='servicesSectionContent '>
                                 <div className='servicesSectionCaption'>
-                             
-                                    <h1>Staff Training</h1>
+                                    <Link to='/training-staff'><h1>Staff Training</h1></Link>
                                     <p>Continuous staff training ensures that all team members are up-to-date with the latest healthcare practices, technologies, and regulatory requirements. This enhances the quality of care and operational efficiency.</p>
 
                                     <h1> Acquiring a Certificate of Need</h1>

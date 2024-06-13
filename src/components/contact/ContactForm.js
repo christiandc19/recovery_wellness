@@ -54,12 +54,12 @@ feedbackEl.setAttribute("class", "feedback hidden");
     
     <div class="get_form_inner2">
             <h2>CALL US</h2>
-            <p><AiOutlinePhone /><a href="tel:2135844445"> +1 (213) 584-4445</a></p>
+            <p><AiOutlinePhone /><a href="tel:1234567890"> +1 (123) 456-7890</a></p>
     </div>
 
     <div class="get_form_inner2">
             <h2>EMAIL</h2>
-            <p><AiOutlineMail /> info@santamonicarehab.biz  </p><br />
+            <p><AiOutlineMail /> info@Recover&Wellness.com</p><br />
     </div>
 
     <div class="get_form_inner2">

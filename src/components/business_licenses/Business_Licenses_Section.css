@@ -50,10 +50,10 @@
 .businessLicensesSection-left h1 {
   font-family: "Gabriola";
   color: #804e05d3;
-  font-size: 2rem;
-  line-height: 1.5rem;
+  font-size: 1.5rem;
+  line-height: 1rem;
   padding: .5rem 0;
-  text-align: center;
+  text-align: left;
 }
 
 .businessLicensesSection-right {
