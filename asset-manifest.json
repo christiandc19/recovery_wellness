@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/recovery_wellness/static/css/main.b8a9e4b9.css",
-    "main.js": "/recovery_wellness/static/js/main.cade2e4a.js",
+    "main.css": "/recovery_wellness/static/css/main.be2b1adf.css",
+    "main.js": "/recovery_wellness/static/js/main.75a069ed.js",
     "static/media/gabriola.ttf": "/recovery_wellness/static/media/gabriola.88ea98efc0d476a13db1.ttf",
     "static/media/Hero3.webp": "/recovery_wellness/static/media/Hero3.48d837550492fde10525.webp",
     "static/media/accreditation_section2.webp": "/recovery_wellness/static/media/accreditation_section2.b4fab5ff1e5c16fb83d1.webp",
@@ -31,7 +31,9 @@
     "static/media/hiring_staff_section2.webp": "/recovery_wellness/static/media/hiring_staff_section2.5902b0cc427eeb079a38.webp",
     "static/media/training_staff_bg.webp": "/recovery_wellness/static/media/training_staff_bg.fd567e27cf788a05e9a2.webp",
     "static/media/certification.webp": "/recovery_wellness/static/media/certification.3490532736b99620aa16.webp",
+    "static/media/grant_writing_hero_bg.webp": "/recovery_wellness/static/media/grant_writing_hero_bg.597d8eb1bfbf44c6a229.webp",
     "static/media/accreditation_section1.webp": "/recovery_wellness/static/media/accreditation_section1.2418263ad0c9bfcb851e.webp",
+    "static/media/grant_writing_section1.webp": "/recovery_wellness/static/media/grant_writing_section1.8b0bba227b7e3fe79eed.webp",
     "static/media/training_staff2.webp": "/recovery_wellness/static/media/training_staff2.6c48ab9cb2617c02d2d4.webp",
     "static/media/recovery_wellness_professional_man.webp": "/recovery_wellness/static/media/recovery_wellness_professional_man.77c99fa308342e44aae7.webp",
     "static/media/accreditation.webp": "/recovery_wellness/static/media/accreditation.175a86ef2c1a618bab2d.webp",
@@ -53,11 +55,11 @@
     "static/media/team_4.webp": "/recovery_wellness/static/media/team_4.4ae39339e61af94432bb.webp",
     "static/media/nav-logo.png": "/recovery_wellness/static/media/nav-logo.b0cd8228fdd31baffa30.png",
     "index.html": "/recovery_wellness/index.html",
-    "main.b8a9e4b9.css.map": "/recovery_wellness/static/css/main.b8a9e4b9.css.map",
-    "main.cade2e4a.js.map": "/recovery_wellness/static/js/main.cade2e4a.js.map"
+    "main.be2b1adf.css.map": "/recovery_wellness/static/css/main.be2b1adf.css.map",
+    "main.75a069ed.js.map": "/recovery_wellness/static/js/main.75a069ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8a9e4b9.css",
-    "static/js/main.cade2e4a.js"
+    "static/css/main.be2b1adf.css",
+    "static/js/main.75a069ed.js"
   ]
 }
