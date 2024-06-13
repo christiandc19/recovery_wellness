@@ -1,6 +1,6 @@
 import React from 'react'
 import './Grant_Writing_Section.css'
-import businessLicenseSection1 from '../../assets/business_license_section1.webp'
+import grant_writing_section1 from '../../assets/grant_writing_section1.webp'
 
 const Grant_Writing_Section = () => {
   return (
@@ -29,7 +29,7 @@ const Grant_Writing_Section = () => {
       </div>
 
       <div className='grantWritingSection-right'>
-        <img src={businessLicenseSection1} alt="Certification" loading="lazy"/>
+        <img src={grant_writing_section1} alt="Certification" loading="lazy"/>
       </div>
 
     </div>

@@ -10,7 +10,7 @@
   .grantWriting:before {
     content: '';
     position: absolute;
-    background: url('../../assets/market_research_hero_bg.webp') no-repeat center center/cover;
+    background: url('../../assets/grant_writing_hero_bg.webp') no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
