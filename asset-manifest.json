@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/recovery_wellness/static/css/main.4dcb5b36.css",
-    "main.js": "/recovery_wellness/static/js/main.3233781b.js",
+    "main.css": "/recovery_wellness/static/css/main.b8a9e4b9.css",
+    "main.js": "/recovery_wellness/static/js/main.cade2e4a.js",
     "static/media/gabriola.ttf": "/recovery_wellness/static/media/gabriola.88ea98efc0d476a13db1.ttf",
     "static/media/Hero3.webp": "/recovery_wellness/static/media/Hero3.48d837550492fde10525.webp",
     "static/media/accreditation_section2.webp": "/recovery_wellness/static/media/accreditation_section2.b4fab5ff1e5c16fb83d1.webp",
     "static/media/Hero4.webp": "/recovery_wellness/static/media/Hero4.1699ef3ce053bd1d6edb.webp",
+    "static/media/hiring_staff_hero_bg.webp": "/recovery_wellness/static/media/hiring_staff_hero_bg.f15d380ca1f4060c5ed3.webp",
     "static/media/services_hero_bg.webp": "/recovery_wellness/static/media/services_hero_bg.bed1b7b351c2c55dae09.webp",
     "static/media/services_section.webp": "/recovery_wellness/static/media/services_section.7c8a5f84f84101d06815.webp",
     "static/media/business_licenses_hero_bg.webp": "/recovery_wellness/static/media/business_licenses_hero_bg.955ab44938844582e48a.webp",
@@ -14,12 +15,20 @@
     "static/media/services_section2.webp": "/recovery_wellness/static/media/services_section2.5a46c65b52acafae5a00.webp",
     "static/media/team_hero_bg.webp": "/recovery_wellness/static/media/team_hero_bg.68a1b353d5829531fbc6.webp",
     "static/media/Hero2.webp": "/recovery_wellness/static/media/Hero2.6b2b0737c1e29c201a5b.webp",
+    "static/media/business_license_section1.webp": "/recovery_wellness/static/media/business_license_section1.94d6f42c658169191326.webp",
+    "static/media/real_estate_section1.webp": "/recovery_wellness/static/media/real_estate_section1.1b304763b59e175992d6.webp",
+    "static/media/real_estate_hero_bg.webp": "/recovery_wellness/static/media/real_estate_hero_bg.5012de06dec02d2e8353.webp",
+    "static/media/investing_hero_bg.webp": "/recovery_wellness/static/media/investing_hero_bg.1120388d514a79a27648.webp",
     "static/media/mission-img1.webp": "/recovery_wellness/static/media/mission-img1.9b1fa5fab1dfb95cb4d1.webp",
+    "static/media/market_research_section1.webp": "/recovery_wellness/static/media/market_research_section1.939c8bf7a60df374d2a3.webp",
     "static/media/menu-bg-contact.webp": "/recovery_wellness/static/media/menu-bg-contact.b89fda2d18aef258e632.webp",
     "static/media/menu-bg-mission.webp": "/recovery_wellness/static/media/menu-bg-mission.8803f3b69280532cf5bf.webp",
+    "static/media/operational_standards_section1.webp": "/recovery_wellness/static/media/operational_standards_section1.2941af3cab79c906bdb6.webp",
+    "static/media/market_research_hero_bg.webp": "/recovery_wellness/static/media/market_research_hero_bg.3f438c7807117b242064.webp",
     "static/media/section-bg.jpg": "/recovery_wellness/static/media/section-bg.37b1c5c020be9cc067a6.jpg",
     "static/media/training_staff.webp": "/recovery_wellness/static/media/training_staff.f0b34a04506c3046f8ef.webp",
     "static/media/real_estate.webp": "/recovery_wellness/static/media/real_estate.bb265f93370a661c8cb8.webp",
+    "static/media/hiring_staff_section2.webp": "/recovery_wellness/static/media/hiring_staff_section2.5902b0cc427eeb079a38.webp",
     "static/media/training_staff_bg.webp": "/recovery_wellness/static/media/training_staff_bg.fd567e27cf788a05e9a2.webp",
     "static/media/certification.webp": "/recovery_wellness/static/media/certification.3490532736b99620aa16.webp",
     "static/media/accreditation_section1.webp": "/recovery_wellness/static/media/accreditation_section1.2418263ad0c9bfcb851e.webp",
@@ -27,10 +36,13 @@
     "static/media/recovery_wellness_professional_man.webp": "/recovery_wellness/static/media/recovery_wellness_professional_man.77c99fa308342e44aae7.webp",
     "static/media/accreditation.webp": "/recovery_wellness/static/media/accreditation.175a86ef2c1a618bab2d.webp",
     "static/media/team_2.webp": "/recovery_wellness/static/media/team_2.064ba837041123e0f3c7.webp",
+    "static/media/hiring_staff_section1.webp": "/recovery_wellness/static/media/hiring_staff_section1.52291bb540012f80c4b8.webp",
     "static/media/business_license.webp": "/recovery_wellness/static/media/business_license.ff775976f7da6e0ee68e.webp",
     "static/media/licensing.webp": "/recovery_wellness/static/media/licensing.8b12d8f15696d86f72c7.webp",
     "static/media/insurance_contracting.webp": "/recovery_wellness/static/media/insurance_contracting.13c052b8d7721e004a7f.webp",
+    "static/media/market_strategies_hero_bg.webp": "/recovery_wellness/static/media/market_strategies_hero_bg.4ae69a4a920f0482fc4b.webp",
     "static/media/market_research.webp": "/recovery_wellness/static/media/market_research.40efe91120999daec760.webp",
+    "static/media/operational_standards_hero_bg.webp": "/recovery_wellness/static/media/operational_standards_hero_bg.9d8f4676029f63a3ad38.webp",
     "static/media/accreditation_hero_bg.webp": "/recovery_wellness/static/media/accreditation_hero_bg.e3505db5ec2214616829.webp",
     "static/media/wellness.webp": "/recovery_wellness/static/media/wellness.763c7ed2c73084eb6155.webp",
     "static/media/Hero1.webp": "/recovery_wellness/static/media/Hero1.1186043cabe251dfb1fa.webp",
@@ -41,11 +53,11 @@
     "static/media/team_4.webp": "/recovery_wellness/static/media/team_4.4ae39339e61af94432bb.webp",
     "static/media/nav-logo.png": "/recovery_wellness/static/media/nav-logo.b0cd8228fdd31baffa30.png",
     "index.html": "/recovery_wellness/index.html",
-    "main.4dcb5b36.css.map": "/recovery_wellness/static/css/main.4dcb5b36.css.map",
-    "main.3233781b.js.map": "/recovery_wellness/static/js/main.3233781b.js.map"
+    "main.b8a9e4b9.css.map": "/recovery_wellness/static/css/main.b8a9e4b9.css.map",
+    "main.cade2e4a.js.map": "/recovery_wellness/static/js/main.cade2e4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4dcb5b36.css",
-    "static/js/main.3233781b.js"
+    "static/css/main.b8a9e4b9.css",
+    "static/js/main.cade2e4a.js"
   ]
 }
