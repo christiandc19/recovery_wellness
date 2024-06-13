@@ -14,7 +14,7 @@ const trainingStaffSection = () => {
 <div className="trainingStaffSection-container">
 
       <div className='trainingStaffSectionHeader container'>
-      <h1>Training Staff</h1>
+      <h1>Recovery & Wellness Solutions: Training Staff</h1>
               <p>Creating a comprehensive training program for staff in the field of Recovery & Wellness Solutions involves several key components. This training program should cover essential knowledge and skills, promote a supportive work environment, and ensure staff are equipped to provide high-quality care to clients. Here’s a structured outline for the content:  
             </p>
       </div>
@@ -89,17 +89,7 @@ const trainingStaffSection = () => {
           <div className="trainingStaffSection-left">
             <img src={TrainingStaff2} alt="nurse" loading="lazy" />
           </div>
-
-
         </div>
-
-
-
-
-
-
-
-
       </div>
 
 

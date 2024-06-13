@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300&display=swap');
 
 
-.trainingStaffSection-container {
+.hiringStaffSection-container {
     width: 100%;
     height: auto;
     position: relative;
   }
   
-  .trainingStaffSection-container:before {
+  .hiringStaffSection-container:before {
     content: '';
     position: absolute;
     background: url('../../assets/section-bg.jpg') no-repeat center center/cover;
@@ -24,11 +24,11 @@
     padding: 1rem;
 }
 
-.trainingStaffSectionHeader {
+.hiringStaffSection-Header {
     padding: 1rem;
 }
 
-.trainingStaffSectionHeader h1 {
+.hiringStaffSection-Header h1 {
     font-size: 2rem;
     text-align: center;
     color: #edaa09;
@@ -37,27 +37,27 @@
     padding: 1rem 0;
 }
 
-.trainingStaffSection-left {
+.hiringStaffSection-left {
     width: 50%;
     text-align: center;
     margin: auto;
 }
 
-.trainingStaffSection-left img {
+.hiringStaffSection-left img {
     width: 100%;
     border-radius: 10px;
 }
 
-.trainingStaffSection-right {
+.hiringStaffSection-right {
     width: 50%;
     margin: auto;
 }
 
-.trainingStaffSection-right ul {
+.hiringStaffSection-right ul {
     padding: .5rem 0;
 }
 
-.trainingStaffSection-right h1 {
+.hiringStaffSection-right h1 {
     font-size: 1rem;
     text-align: left;
     color: #edaa09;
@@ -65,7 +65,7 @@
     text-transform: uppercase;
 }
 
-.trainingStaffSection-right h2 {
+.hiringStaffSection-right h2 {
     font-size: 1.5rem;
     text-align: left;
     color: #804e05d3;
@@ -75,7 +75,7 @@
 }
 
 
-.trainingStaffSection-right p {
+.hiringStaffSection-right p {
     text-align: justify;
     font-size: 14px;
 }
@@ -83,7 +83,7 @@
 
 
 @media screen and (max-width:940px) {
-    .trainingStaffSection-left {
+    .hiringStaffSection-left {
         width: 100%;
     }
 
@@ -91,7 +91,7 @@
         flex-wrap: wrap-reverse;
     }
 
-    .trainingStaffSection-right {
+    .hiringStaffSection-right {
         width: 100%;
     }
 

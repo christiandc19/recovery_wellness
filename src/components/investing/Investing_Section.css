@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300&display=swap');
 
-.businessLicensesSection {
+.investingSection {
   width: 100%;
   height: auto;
   background: rgba(0, 0, 0, 0);
@@ -8,7 +8,7 @@
   padding: 2rem 0;
 }
 
-.businessLicensesSection:before {
+.investingSection:before {
   content: '';
   position: absolute;
   background: url('../../assets/section-bg.jpg') no-repeat center center/cover;
@@ -18,11 +18,11 @@
   opacity: 0.03;
 }
 
-.businessLicensesSection-header {
+.investingSection-header {
   padding: 1rem;
 }
 
-.businessLicensesSection-header h1 {
+.investingSection-header h1 {
   font-family: "Gabriola";
   color: #804e05d3;
   font-size: 2rem;
@@ -31,27 +31,31 @@
   text-align: center;
 }
 
-.businessLicensesSection-content {
+.investingSection-header p {
+  font-size: 14px;
+}
+
+.investingSection-content {
   padding: 1rem;
 }
 
-.businessLicensesSection-flex {
+.investingSection-flex {
   display: flex;
   justify-content: center;
   gap: 1rem;
   padding: 1rem 0;
 }
 
-.businessLicensesSection-left {
+.investingSection-left {
   width: 50%;
   margin: auto;
 }
 
-.businessLicensesSection-left ul li {
+.investingSection-left ul li {
   padding: .2rem 0;
 }
 
-.businessLicensesSection-left h1 {
+.investingSection-left h1 {
   font-family: "Gabriola";
   color: #804e05d3;
   font-size: 1.5rem;
@@ -60,7 +64,11 @@
   text-align: left;
 }
 
-.businessLicensesSection-right {
+.investingSection-left p {
+  font-size: 14px;
+}
+
+.investingSection-right {
   width: 500px;
   margin: auto;
   -webkit-box-shadow: 0px 0px 10px -5px rgba(10,9,10,1);
@@ -68,9 +76,27 @@
   box-shadow: 0px 0px 10px -5px rgba(10,9,10,1);
 }
 
-.businessLicensesSection-right img {
+.investingSection-right img {
   width: 100%;
   border-radius: 10px;
+}
+
+
+.investingSection-footer {
+  padding: 1rem;
+}
+
+.investingSection-footer h1 {
+  font-family: "Gabriola";
+  color: #804e05d3;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  padding: .5rem 0;
+  text-align: left;
+}
+
+.investingSection-footer p {
+  font-size: 14px;
 }
 
 
@@ -78,21 +104,21 @@
 
 @media screen and (max-width:940px) {
 
-  .businessLicensesSection-flex {
+  .investingSection-flex {
     flex-wrap: wrap;
   }
   
-  .businessLicensesSection-left {
+  .investingSection-left {
     width: 100%;
     margin: auto;
   }
   
-  .businessLicensesSection-right {
+  .investingSection-right {
     width: 100%;
     margin: auto;
   }
   
-  .businessLicensesSection-header p {
+  .investingSection-header p {
     text-align: center;
   }
 

@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300&display=swap');
 
-.businessLicensesSection {
+.realEstateAdvisementSection {
   width: 100%;
   height: auto;
   background: rgba(0, 0, 0, 0);
@@ -8,7 +8,7 @@
   padding: 2rem 0;
 }
 
-.businessLicensesSection:before {
+.realEstateAdvisementSection:before {
   content: '';
   position: absolute;
   background: url('../../assets/section-bg.jpg') no-repeat center center/cover;
@@ -18,11 +18,11 @@
   opacity: 0.03;
 }
 
-.businessLicensesSection-header {
+.realEstateAdvisementSection-header {
   padding: 1rem;
 }
 
-.businessLicensesSection-header h1 {
+.realEstateAdvisementSection-header h1 {
   font-family: "Gabriola";
   color: #804e05d3;
   font-size: 2rem;
@@ -31,27 +31,31 @@
   text-align: center;
 }
 
-.businessLicensesSection-content {
+.realEstateAdvisementSection-header p {
+  font-size: 14px;
+}
+
+.realEstateAdvisementSection-content {
   padding: 1rem;
 }
 
-.businessLicensesSection-flex {
+.realEstateAdvisementSection-flex {
   display: flex;
   justify-content: center;
   gap: 1rem;
   padding: 1rem 0;
 }
 
-.businessLicensesSection-left {
+.realEstateAdvisementSection-left {
   width: 50%;
   margin: auto;
 }
 
-.businessLicensesSection-left ul li {
+.realEstateAdvisementSection-left ul li {
   padding: .2rem 0;
 }
 
-.businessLicensesSection-left h1 {
+.realEstateAdvisementSection-left h1 {
   font-family: "Gabriola";
   color: #804e05d3;
   font-size: 1.5rem;
@@ -60,7 +64,11 @@
   text-align: left;
 }
 
-.businessLicensesSection-right {
+.realEstateAdvisementSection-left p {
+  font-size: 14px;
+}
+
+.realEstateAdvisementSection-right {
   width: 500px;
   margin: auto;
   -webkit-box-shadow: 0px 0px 10px -5px rgba(10,9,10,1);
@@ -68,9 +76,28 @@
   box-shadow: 0px 0px 10px -5px rgba(10,9,10,1);
 }
 
-.businessLicensesSection-right img {
+.realEstateAdvisementSection-right img {
   width: 100%;
   border-radius: 10px;
+}
+
+
+.realEstateAdvisementSection-footer {
+  padding: 1rem;
+}
+
+.realEstateAdvisementSection-footer h1 {
+  font-family: "Gabriola";
+  color: #804e05d3;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  padding: .5rem 0;
+  text-align: left;
+}
+
+.realEstateAdvisementSection-footer p {
+  font-size: 14px;
+  text-align: justify;
 }
 
 
@@ -78,21 +105,21 @@
 
 @media screen and (max-width:940px) {
 
-  .businessLicensesSection-flex {
+  .realEstateAdvisementSection-flex {
     flex-wrap: wrap;
   }
   
-  .businessLicensesSection-left {
+  .realEstateAdvisementSection-left {
     width: 100%;
     margin: auto;
   }
   
-  .businessLicensesSection-right {
+  .realEstateAdvisementSection-right {
     width: 100%;
     margin: auto;
   }
   
-  .businessLicensesSection-header p {
+  .realEstateAdvisementSection-header p {
     text-align: center;
   }
 

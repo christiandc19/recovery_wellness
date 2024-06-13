@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300&display=swap');
 
-.businessLicensesSection {
+.insuranceContractingSection {
   width: 100%;
   height: auto;
   background: rgba(0, 0, 0, 0);
@@ -8,7 +8,7 @@
   padding: 2rem 0;
 }
 
-.businessLicensesSection:before {
+.insuranceContractingSection:before {
   content: '';
   position: absolute;
   background: url('../../assets/section-bg.jpg') no-repeat center center/cover;
@@ -18,11 +18,11 @@
   opacity: 0.03;
 }
 
-.businessLicensesSection-header {
+.insuranceContractingSection-header {
   padding: 1rem;
 }
 
-.businessLicensesSection-header h1 {
+.insuranceContractingSection-header h1 {
   font-family: "Gabriola";
   color: #804e05d3;
   font-size: 2rem;
@@ -31,27 +31,31 @@
   text-align: center;
 }
 
-.businessLicensesSection-content {
+.insuranceContractingSection-header p {
+  font-size: 14px;
+}
+
+.insuranceContractingSection-content {
   padding: 1rem;
 }
 
-.businessLicensesSection-flex {
+.insuranceContractingSection-flex {
   display: flex;
   justify-content: center;
   gap: 1rem;
   padding: 1rem 0;
 }
 
-.businessLicensesSection-left {
+.insuranceContractingSection-left {
   width: 50%;
   margin: auto;
 }
 
-.businessLicensesSection-left ul li {
+.insuranceContractingSection-left ul li {
   padding: .2rem 0;
 }
 
-.businessLicensesSection-left h1 {
+.insuranceContractingSection-left h1 {
   font-family: "Gabriola";
   color: #804e05d3;
   font-size: 1.5rem;
@@ -60,7 +64,7 @@
   text-align: left;
 }
 
-.businessLicensesSection-right {
+.insuranceContractingSection-right {
   width: 500px;
   margin: auto;
   -webkit-box-shadow: 0px 0px 10px -5px rgba(10,9,10,1);
@@ -68,9 +72,28 @@
   box-shadow: 0px 0px 10px -5px rgba(10,9,10,1);
 }
 
-.businessLicensesSection-right img {
+.insuranceContractingSection-right img {
   width: 100%;
   border-radius: 10px;
+}
+
+
+.insuranceContractingSection-footer {
+  padding: 1rem;
+}
+
+.insuranceContractingSection-footer h1 {
+  font-family: "Gabriola";
+  color: #804e05d3;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  padding: .5rem 0;
+  text-align: left;
+}
+
+.insuranceContractingSection-footer p {
+  text-align: justify;
+  font-size: 14px;
 }
 
 
@@ -78,21 +101,21 @@
 
 @media screen and (max-width:940px) {
 
-  .businessLicensesSection-flex {
+  .insuranceContractingSection-flex {
     flex-wrap: wrap;
   }
   
-  .businessLicensesSection-left {
+  .insuranceContractingSection-left {
     width: 100%;
     margin: auto;
   }
   
-  .businessLicensesSection-right {
+  .insuranceContractingSection-right {
     width: 100%;
     margin: auto;
   }
   
-  .businessLicensesSection-header p {
+  .insuranceContractingSection-header p {
     text-align: center;
   }
 

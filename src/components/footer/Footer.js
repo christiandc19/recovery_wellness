@@ -19,7 +19,7 @@ const Footer = () => {
             <div className="logo-footer">
               <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
                 <Link to='/'>
-                  <img src={logo} alt="Oxnard Rehab Logo" loading="lazy"/>
+                  <img src={logo} alt="Recovery and Wellness Logo" loading="lazy"/>
                 </Link>
               </LinkRoll>
             </div>

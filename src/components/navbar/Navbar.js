@@ -63,29 +63,29 @@ const Navbar = () => {
 
                     <li onClick={toggleSubmenu} className="menu-item sub__menus__arrows" > <Link to={`#`}> Operating <BsFillCaretDownFill /> </Link>
                         <ul className={boxClassSubMenu.join(' ')} id='submenu-item'> 
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/licensing-certification`}> Advising on operational standards</NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/operational-standards`}> Advising on operational standards</NavLink> </li>
                             <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/training-staff`}> Training Staff</NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/training-staff`}> Hiring Staff</NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/training-staff`}> Helping write policies</NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/hiring-staff`}> Hiring Staff</NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/write-policies`}> Helping write policies</NavLink> </li>
                         </ul>
                     </li>
 
 
                     <li onClick={toggleSubmenu} className="menu-item sub__menus__arrows" > <Link to={`#`}> Marketing <BsFillCaretDownFill /> </Link>
                         <ul className={boxClassSubMenu.join(' ')} id='submenu-item'> 
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/licensing-certification`}> Market Research
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/market-research`}> Market Research
                             </NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/licensing-certification`}>Marketing Strategies
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/marketing-strategies`}>Marketing Strategies
                             </NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/licensing-certification`}> Real Estate Advisement
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/real-estate-advisement`}> Real Estate Advisement
                             </NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/licensing-certification`}> Investing
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/investing`}> Investing
                             </NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/licensing-certification`}> Insurance Contracting
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/insurance-contracting`}> Insurance Contracting
                             </NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/licensing-certification`}> Grant Writing 
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/grant-writing`}> Grant Writing 
                             </NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/licensing-certification`}> Facilitating 
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/facilitating`}> Facilitating 
                             </NavLink> </li>
                         </ul>
                     </li>

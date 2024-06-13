@@ -1,6 +1,6 @@
 import React from 'react'
 import './Business_Licenses_Section.css'
-import Certification from '../../assets/certification.webp'
+import businessLicenseSection1 from '../../assets/business_license_section1.webp'
 
 const Business_Licenses_Section = () => {
   return (
@@ -38,7 +38,7 @@ const Business_Licenses_Section = () => {
       </div>
 
       <div className='businessLicensesSection-right'>
-        <img src={Certification} alt="Certification" loading="lazy"/>
+        <img src={businessLicenseSection1} alt="Certification" loading="lazy"/>
       </div>
 
     </div>
