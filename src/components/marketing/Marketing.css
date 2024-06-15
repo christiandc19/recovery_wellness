@@ -17,7 +17,7 @@
 
 
   .marketing-content {
-    padding: 3rem 0;
+    padding: 3rem 1rem;
     height: auto;
   }
 
@@ -55,7 +55,7 @@
 }
 
 .marketing-flexItem .flex-img {
-  width: 369px;
+  width: 100%;
 }
 
 .marketing-flexItem .flex-img img {
@@ -78,6 +78,7 @@
 .marketing-btn {
   margin: auto;
   text-align: center;
+  padding: 1rem;
 }
 
 .marketing-btn button {

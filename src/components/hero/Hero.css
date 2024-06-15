@@ -44,9 +44,9 @@
 }
 
 .hero-btn a {
-font-size: 1.8rem;
+font-size: 4rem;
 color: #ffffff;
-font-family: 'Libre Baskerville', serif;
+font-family: "Gabriola";
 }
 
 .hero-btn span {
@@ -121,11 +121,7 @@ padding-top: 2rem;
 @media screen and (max-width:700px) {
 
 
-  .hero-btn button {
-    padding: .5rem 2rem;
-    margin: 1rem 0;
-    font-size: .8rem;
-  }
+
 
   .hero .content h1 {
     font-size: 5rem;
@@ -133,9 +129,15 @@ padding-top: 2rem;
   }
   
   .hero .content h2 {
-    font-size: .8rem;
+    font-size: 1rem;
     padding: .5rem 0;
   }
+
+  .hero-btn a {
+    font-size: 2.5rem;
+    color: #ffffff;
+    font-family: "Gabriola";
+    }
   
 
 

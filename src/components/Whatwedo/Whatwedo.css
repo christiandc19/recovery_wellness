@@ -51,7 +51,7 @@
 .wrapper-content-right p {
     margin: auto;
     font-family: 'Roboto', sans-serif;
-    font-size: 16px;
+    font-size: 15px;
 }
 
 
@@ -76,7 +76,6 @@
 
     .wrapper-content-right {
         width: 100%;
-        padding: 1rem 2rem;
     }
 
     .wrapper-content-right h1, .wrapper-content-right h2{

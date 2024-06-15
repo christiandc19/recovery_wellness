@@ -1,6 +1,6 @@
 import React from "react";
 import Fade from 'react-reveal/Fade';
-import { MdPhoneCallback } from "react-icons/md";
+// import { MdPhoneCallback } from "react-icons/md";
 
 import ContactForm from "./ContactForm";
 import './Contact.css'
@@ -18,7 +18,7 @@ const Contact = () => {
             </Fade>
             <Fade right>
                   <h2>Reach out to us for any inquiries, appointments, or assistance. </h2>
-                  <p><span><MdPhoneCallback /></span><a href="tel:1234567890">(123) 456-7890</a></p>
+                  <p><a href="tel:8184520201"> +1 (818) 452-0201 <br/> <a href="tel:1234567890"> +1 (747) 203-7185</a></a></p>
             </Fade>
             </div>
      </div>
