@@ -24,7 +24,7 @@ const Marketing = () => {
 
           <div className="marketing-flex container">
 
-          <Fade left>
+          <Fade bottom>
             <div className="marketing-flexItem">
               <div className="flex-img">
                 <img src={marketResearch} alt="Market Research"/>
@@ -41,7 +41,7 @@ const Marketing = () => {
           </Fade>
 
 
-          <Fade top>
+          <Fade bottom>
             <div className="marketing-flexItem">
               <div className="flex-img">
               <img src={insuranceContracting} alt="Insurance Contracting"/>
@@ -58,7 +58,7 @@ const Marketing = () => {
             </div>
           </Fade>
 
-          <Fade right>
+          <Fade bottom>
             <div className="marketing-flexItem">
               <div className="flex-img">
               <img src={realEstate} alt="Real Estate"/>

@@ -25,7 +25,7 @@ const TherapyMH = () => {
           </Fade>
 
           <div className="licensing-right container">
-            <Fade left>
+            <Fade bottom>
               <div className="box1 item">
                 <div className="box-content">
                   <img src={Licensing} alt="Woman signing a contract"/>
@@ -37,7 +37,7 @@ const TherapyMH = () => {
               </div>
             </Fade>
 
-            <Fade top>
+            <Fade bottom>
               <div className="box2 item">
                 <div className="box-content">
                   <img src={BusinessLicense} alt="business woman"/>

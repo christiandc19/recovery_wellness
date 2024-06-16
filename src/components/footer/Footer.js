@@ -5,8 +5,6 @@ import logo from '../../assets/nav-logo.png'
 import "./FooterStyles.css";
 import { MdPhoneCallback } from "react-icons/md";
 import { MdAlternateEmail } from "react-icons/md";
-import { FiMapPin } from "react-icons/fi";
-
 
 import { Link as LinkRoll } from "react-scroll";
 
@@ -111,16 +109,18 @@ const Footer = () => {
             <div className="col">
               <h3>CONTACT</h3>
               <div>
-                  <p><span><MdPhoneCallback /></span> <a href="tel:1234567890">(213) 584-4445</a></p>
+                  <p>
+                    <span><MdPhoneCallback /></span> <a href="tel:1234567890"> Ray Bretado +1 (818) 452-0201</a><br/>
+                    <span><MdPhoneCallback /></span> <a href="tel:1234567890"> Kaleb Treis +1 (747) 203-7185</a>
+
+                  </p>
               </div>
 
               <div>
                   <p><span><MdAlternateEmail  /><a href = "mailto: K.Treis@RecoveryandWellnessSolutions.com"> K.Treis@RecoveryandWellnessSolutions.com</a><br/><span><MdAlternateEmail  /></span><a href = "mailto: R.Bretado@RecoveryandWellnessSolutions.com"> R.Bretado@RecoveryandWellnessSolutions.com</a></span></p>
               </div>
 
-              <div>
-                  <p><span><FiMapPin  /></span>Los Angeles, California</p>
-              </div>
+    
             </div>
           </div>
 
