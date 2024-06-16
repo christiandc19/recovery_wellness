@@ -31,7 +31,7 @@ const TherapyMH = () => {
                   <img src={Licensing} alt="Woman signing a contract"/>
                   <h1>Licensing and Certification</h1>
                   <p>
-                  W&R Consulting Solutions offers comprehensive Licensing and Certification services to ensure compliance with state and federal regulations for mental health and substance abuse treatment providers.
+                  R&W Solutions offers comprehensive Licensing and Certification services to ensure compliance with state and federal regulations for mental health and substance abuse treatment providers.
                   </p>
                 </div>
               </div>
@@ -43,7 +43,7 @@ const TherapyMH = () => {
                   <img src={BusinessLicense} alt="business woman"/>
                   <h1>Acquiring Business Licenses</h1>
                   <p>
-                  W&R Solutions offers comprehensive business license acquisition services tailored to meet the regulatory requirements of various industries. Our streamlined process ensures swift and compliant procurement of business licenses, facilitating seamless operations for new and expanding businesses.
+                  R&W Solutions offers comprehensive business license acquisition services tailored to meet the regulatory requirements of various industries. Our streamlined process ensures swift and compliant procurement of business licenses, facilitating seamless operations for new and expanding businesses.
                   </p>
                 </div>
               </div>
@@ -55,7 +55,7 @@ const TherapyMH = () => {
                 <img src={Accreditation} alt="depressed man"/>
                   <h1>Accreditation</h1>
                   <p>
-                  W&R Solutions is enhancing its credibility and operational standards by acquiring business accreditation services. This strategic move aims to ensure adherence to industry best practices and regulatory requirements, bolstering customer trust and satisfaction. 
+                  R&W Solutions is enhancing its credibility and operational standards by acquiring business accreditation services. This strategic move aims to ensure adherence to industry best practices and regulatory requirements, bolstering customer trust and satisfaction. 
                   </p>
                 </div>
               </div>

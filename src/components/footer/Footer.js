@@ -115,11 +115,11 @@ const Footer = () => {
               </div>
 
               <div>
-                  <p><span><MdAlternateEmail  /><a href = "mailto: abc@example.com">info@RecoveryWellness</a></span></p>
+                  <p><span><MdAlternateEmail  /><a href = "mailto: K.Treis@RecoveryandWellnessSolutions.com"> K.Treis@RecoveryandWellnessSolutions.com</a><br/><span><MdAlternateEmail  /></span><a href = "mailto: R.Bretado@RecoveryandWellnessSolutions.com"> R.Bretado@RecoveryandWellnessSolutions.com</a></span></p>
               </div>
 
               <div>
-                  <p><span><FiMapPin  /></span> Santa Monica, California</p>
+                  <p><span><FiMapPin  /></span>Los Angeles, California</p>
               </div>
             </div>
           </div>
@@ -133,7 +133,7 @@ const Footer = () => {
 
           <p className="copyright">
             <p>
-              &copy; 2024 Recovery & Wellness Solutions All rights
+              &copy; 2024 Recovery & Wellness Solutions <br/>All rights
               reserved
             </p>
           </p>

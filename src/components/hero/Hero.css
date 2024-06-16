@@ -21,7 +21,7 @@
 
 .hero-container .content {
   position: absolute;
-  bottom: 10%;
+  bottom: 15%;
   padding: 1rem;
   text-align: center;
   width: 100%;
@@ -54,9 +54,6 @@ color: white;
 font-size: 1.8rem;
 }
 
-.hero-btn {
-padding-top: 2rem;
-}
 
 .hero .hero-btn button {
   cursor: pointer;
@@ -124,7 +121,7 @@ padding-top: 2rem;
 
 
   .hero .content h1 {
-    font-size: 5rem;
+    font-size: 4rem;
     line-height: 4rem;
   }
   

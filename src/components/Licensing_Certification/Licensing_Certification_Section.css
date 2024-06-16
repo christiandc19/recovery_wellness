@@ -18,12 +18,15 @@
   opacity: 0.03;
 }
 
+.licensingCertificationSection-header {
+  padding: 1rem;
+}
+
 .licensingCertificationSection-header h1 {
   font-family: "Gabriola";
   color: #804e05d3;
   font-size: 2rem;
   line-height: 1.5rem;
-  padding: .5rem 0;
   text-align: center;
 }
 

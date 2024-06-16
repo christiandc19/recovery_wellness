@@ -97,7 +97,7 @@ feedbackEl.setAttribute("class", "feedback hidden");
 
               <div className="feedback hidden">
               {/* <img  src= {myAvatar} alt='avatar'/> */}
-              <textarea name="message2" cols="30" rows="3" required>Message Sent to Santa Monica Rehab!</textarea>
+              <textarea name="message2" cols="30" rows="3" required>Message Sent to Recovery Wellness Solusions</textarea>
               </div>
 
 
