@@ -54,7 +54,7 @@ feedbackEl.setAttribute("class", "feedback hidden");
     
     <div class="get_form_inner2">
             <h2>CALL US</h2>
-            <p><AiOutlinePhone /><a href="tel:1234567890"> Ray Bretado +1 (818) 452-0201</a><br/><AiOutlinePhone /><a href="tel:1234567890"> Kaleb Treis +1 (747) 203-7185</a>
+            <p><AiOutlinePhone /><a href="tel:1234567890"> Ray Bretado +1 (818) 452-0201</a>
             </p>
     </div>
 
@@ -63,7 +63,7 @@ feedbackEl.setAttribute("class", "feedback hidden");
             <p>
               
              
-              <AiOutlineMail /> R.Bretado@RecoveryandWellnessSolutions.com <br /> <AiOutlineMail /> K.Treis@RecoveryandWellnessSolutions.com </p>
+              <AiOutlineMail /> R.Bretado@RecoveryandWellnessSolutions.com </p>
 
     </div>
 
