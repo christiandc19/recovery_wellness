@@ -132,7 +132,7 @@ const Footer = () => {
 
           <p className="copyright">
             <p>
-              &copy; 2024 Recovery & Wellness Solutions <br/>All rights
+              &copy; 2024 Recovery & Wellness Solutions All rights
               reserved
             </p>
           </p>
