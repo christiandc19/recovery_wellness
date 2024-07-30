@@ -55,7 +55,7 @@ feedbackEl.setAttribute("class", "feedback hidden");
     <div class="get_form_inner2">
             <h2>CALL US</h2>
             <p><AiOutlinePhone /><a href="tel:1818452-0201"> Ray Bretado +1 (818) 452-0201</a><br/>
-            <AiOutlinePhone /><a href="tel:7472038185"> Ray Bretado +1 (747) 2038185</a>
+            <AiOutlinePhone /><a href="tel:7472056200"> Shandeal Graham +1 (747) 205-6200</a>
 
             </p>
     </div>

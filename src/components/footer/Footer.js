@@ -111,7 +111,7 @@ const Footer = () => {
               <div>
                   <p>
                     <span><MdPhoneCallback /></span> <a href="tel:1234567890"> Ray Bretado +1 (818) 452-0201</a><br/>
-                    <span><MdPhoneCallback /></span> <a href="tel:7472038185"> Shandeal Graham  +1 (747) 203-8185</a>
+                    <span><MdPhoneCallback /></span> <a href="tel:7472056200"> Shandeal Graham +1 (747) 205-6200</a>
                   </p>
               </div>
 
