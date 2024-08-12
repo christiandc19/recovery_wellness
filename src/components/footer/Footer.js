@@ -111,13 +111,13 @@ const Footer = () => {
               <div>
                   <p>
                     <span><MdPhoneCallback /></span> <a href="tel:1234567890"> Ray Bretado +1 (818) 452-0201</a><br/>
-                    <span><MdPhoneCallback /></span> <a href="tel:7472056200"> Shandeal Graham +1 (747) 205-6200</a>
+                    <span><MdPhoneCallback /></span> <a href="tel:3233763293"> Michael Gennello +1 (323) 376-3293</a>
                   </p>
               </div>
 
               <div>
-                  <p><span><MdAlternateEmail  /></span><a href = "mailto: R.Bretado@RecoveryandWellnessSolutions.com"> R.Bretado@RecoveryandWellnessSolutions.com</a></p>
-                  <p><span><MdAlternateEmail  /></span><a href = "mailto: Sh.Graham@RecoveryAndWellnessSolutions.com"> Sh.Graham@RecoveryAndWellnessSolutions.com</a></p>
+                  <p><span><MdAlternateEmail  /></span><a href = "mailto: R.Bretado@RecoveryandWellnessSolutions.com"> r.bretado@RecoveryandWellnessSolutions.com</a></p>
+                  <p><span><MdAlternateEmail  /></span><a href = "mailto: mgennello@RecoveryAndWellnessSolutions.com"> mgennello@RecoveryAndWellnessSolutions.com</a></p>
 
               </div>
 
