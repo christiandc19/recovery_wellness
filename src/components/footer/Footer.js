@@ -3,8 +3,6 @@ import { Link } from "react-router-dom";
 import { BsFillArrowUpCircleFill } from "react-icons/bs";
 import logo from '../../assets/nav-logo.png'
 import "./FooterStyles.css";
-import { MdPhoneCallback } from "react-icons/md";
-import { MdAlternateEmail } from "react-icons/md";
 
 import { Link as LinkRoll } from "react-scroll";
 
@@ -82,47 +80,97 @@ const Footer = () => {
             <div className="col">
               <h3>Services</h3>
 
-{/* PHP */}
               <div>
+                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
+                  <Link to="/licensing-certification">
                     <p>Licensing & Certification</p>
-              </div>
-{/* IOP */}
-
-              <div>
-                    <p>Operating/Supervising Treatment programs</p>
+                  </Link>
+                </LinkRoll>
               </div>
 
-{/* OP */}
+              <div>
+                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
+                  <Link to="/accreditation">
+                    <p>Business Accreditation</p>
+                  </Link>
+                </LinkRoll>
+              </div>
 
               <div>
-                    <p>Marketing, Contracting and Investing</p>
+                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
+                  <Link to="/business-licenses">
+                    <p>Acquiring Business Licenses</p>
+                  </Link>
+                </LinkRoll>
               </div>
 
             </div>
 
 
 
-
-
-
-{/* Contact */}
             <div className="col">
-              <h3>CONTACT</h3>
+              <h3>Operating</h3>
+
               <div>
-                  <p>
-                    <span><MdPhoneCallback /></span> <a href="tel:1234567890"> Ray Bretado +1 (818) 452-0201</a><br/>
-                    <span><MdPhoneCallback /></span> <a href="tel:3233763293"> Michael Gennello +1 (323) 376-3293</a>
-                  </p>
+                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
+                  <Link to="/training-staff">
+                    <p>Training Staff</p>
+                  </Link>
+                </LinkRoll>
+              </div>
+
+
+              <div>
+                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
+                  <Link to="/hiring-staff">
+                    <p>Hiring Staff</p>
+                  </Link>
+                </LinkRoll>
               </div>
 
               <div>
-                  <p><span><MdAlternateEmail  /></span><a href = "mailto: R.Bretado@RecoveryandWellnessSolutions.com"> r.bretado@RecoveryandWellnessSolutions.com</a></p>
-                  <p><span><MdAlternateEmail  /></span><a href = "mailto: mgennello@RecoveryAndWellnessSolutions.com"> mgennello@RecoveryAndWellnessSolutions.com</a></p>
-
+                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
+                  <Link to="/operational-standards">
+                    <p>Advising on Operational Standards</p>
+                  </Link>
+                </LinkRoll>
               </div>
+
+            </div>
+
+
+
+            <div className="col">
+              <h3>Marketing</h3>
+
+              <div>
+                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
+                  <Link to="/market-research">
+                    <p>Market Research</p>
+                  </Link>
+                </LinkRoll>
+              </div>
+
+
+              <div>
+                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
+                  <Link to="/real-estate-advisement">
+                    <p>Real Estate</p>
+                  </Link>
+                </LinkRoll>
+              </div>
+
+              <div>
+                <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
+                  <Link to="/investing">
+                    <p>Investing</p>
+                  </Link>
+                </LinkRoll>
+              </div>
+
+            </div>
 
     
-            </div>
           </div>
 
 

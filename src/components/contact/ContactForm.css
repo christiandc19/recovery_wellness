@@ -122,7 +122,7 @@ input {
   .get_form_inner2 {
     display: block;
     width: 350;
-    height: 150px;
+    height: auto;
     padding: 2rem 1rem;
     background: #fff;
     box-shadow: -4px -2px 20px -7px #cfd5df;
@@ -139,6 +139,7 @@ input {
     color: rgb(39, 38, 38);
     text-align: center;
     margin: 1rem auto;
+    font-size: 13px;
     }
 
     .card_email p {
