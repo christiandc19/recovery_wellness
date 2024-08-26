@@ -56,7 +56,6 @@ feedbackEl.setAttribute("class", "feedback hidden");
             <h2>CALL US</h2>
             <p><AiOutlinePhone /><a href="tel:18184520201"> Ray Bretado +1 (818) 452-0201</a><br/>
             <AiOutlinePhone /><a href="tel:3233763293"> Michael Gennello +1 (323) 376-3293</a><br/>
-            <AiOutlinePhone /><a href="tel:7472037054"> Danielle Chapman +1 (747) 203-7054</a><br/>
             </p>
     </div>
 
@@ -67,7 +66,6 @@ feedbackEl.setAttribute("class", "feedback hidden");
              
               <AiOutlineMail /> r.bretado@RecoveryAndWellnessSolutions.com </p>
               <p><AiOutlineMail /> mgennello@RecoveryAndWellnessSolutions.com</p>
-              <p><AiOutlineMail /> d.chapman@RecoveryAndWellnessSolutions.com</p>
 
 
     </div>
