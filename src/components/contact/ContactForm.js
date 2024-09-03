@@ -33,7 +33,7 @@ const ContactForm = () => {
                 <p>We're here to help you every step of the way. Whether you have questions about our programs, need support, or want to get in touch with our team, we're ready to assist you.</p>
             </div>
 
-            <section className="contact-container">
+            <section className="contact-container container">
 
 
 

@@ -108,7 +108,7 @@ input {
   }
 
   input[type="submit"]:hover {
-    background-color: rgb(212, 42, 212);
+    background-color: #055777;
     border-color: var(--secondary-color);
     color: #fff;
   }
