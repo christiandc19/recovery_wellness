@@ -23,7 +23,7 @@ import WritePolicies from './routes/Write_Policies_Page';
 import RealEstateAdvisement from './routes/Real_Estate_Advisement_Page';
 import TrainingStaff from './routes/TrainingStaff';
 import Team from './routes/Team';
-
+import PrivacyPolicyPage from './routes/PrivacyPolicyPage';
 
 ReactDOM.render(
   <BrowserRouter basename={window.location.pathname || ''} >
@@ -49,6 +49,10 @@ ReactDOM.render(
       <Route exact path='/services' element={<ServicesPage />} />
       <Route exact path='/team' element={<Team />} />
       <Route exact path='/contact' element={<ContactPage />} />
+
+      <Route exact path='/privacy-policy' element={<PrivacyPolicyPage />} />
+
+
     </Routes>
   </BrowserRouter>,
   document.getElementById('root')

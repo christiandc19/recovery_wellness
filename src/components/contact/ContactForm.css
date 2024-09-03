@@ -37,7 +37,6 @@
 .contact-container {
     width: 100%;
     height: auto;
-    position: relative;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -115,18 +114,17 @@ input {
   }
 
   .contact-cards-container {
-    flex-wrap: wrap;
-    width: max-content;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
   }
 
   .get_form_inner2 {
-    display: block;
-    width: 350;
+    width: 100%;
     height: auto;
-    padding: 2rem 1rem;
+    padding: 2rem;
     background: #fff;
     box-shadow: -4px -2px 20px -7px #cfd5df;
-    margin: 4rem 1rem 1rem 1rem;
     border-bottom: 3px solid var(--primary-color);
   }
 
@@ -146,25 +144,26 @@ input {
       font-size: 12.5px;
     }
 
-    .hidden {
-      display: none;
-      margin-bottom: 2rem;
-      color: white;
-      text-align: center;
-      width: 10rem;
-      margin: auto;
-      z-index: 2;
+  .disclaimer p {
+    padding: 1rem 0;
+    font-size: 12px;
   }
-
-
+  
+  .disclaimer span {
+    padding: 1rem 0;
+    font-size: 12px;
+    color: var(--primary-color);
+  }
 
   @media screen and (max-width: 940px) {
     .get_form_inner {
         margin: 4rem 1rem 2rem 1rem;
       }
 
-      iframe {
-        display: none;
+      .contact-cards-container {
+        flex-wrap: wrap;
+        padding: 1rem;
       }
+
     }
   
