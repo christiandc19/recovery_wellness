@@ -110,7 +110,7 @@ const ContactForm = () => {
                         <div className="get_form_inner2">
                             <h2>CALL US</h2>
                             <p>
-                                <AiOutlinePhone /><a href="tel:2134333926"> Shawn Bullington <br/> +1 213-433-3926</a><br />
+                                <AiOutlinePhone /><a href="tel:323-872-8721"> Shawn Bullington <br/> +1 323-872-8721</a><br />
                                 <br />
                                 <AiOutlinePhone /><a href="tel:3233763293"> Michael Gennello <br/> +1 323-376-3293</a>
 
