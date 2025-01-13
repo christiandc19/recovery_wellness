@@ -3,6 +3,7 @@ import React from "react";
 // import Fade from "react-reveal/Fade";
 import Zoom from 'react-reveal/Zoom';
 import "./Hero.css";
+import {Helmet} from "react-helmet";
 import Hero1 from '../../assets/Hero1.webp'
 import Hero2 from '../../assets/Hero2.webp'
 import Hero3 from '../../assets/Hero3.webp'
@@ -13,6 +14,13 @@ import { MdPhoneCallback } from "react-icons/md";
 const Hero = () => {
   return (
     <>
+
+        <Helmet>
+            <meta charSet="utf-8" />
+            <title>HOME - Recovery & Wellness Solutions</title>
+            <link rel="canonical" href="https://recoveryandwellnesssolutions.com/" />
+        </Helmet>
+
     <div className="hero-content">
       <div className="hero">
 
